@@ -13,7 +13,7 @@
 ```javascript
 const Maheshwari = {
   pronouns: "she" | "her",
-  code: [ HTML, CSS, C++, Python, Tablue],
+  code: [ SQL, C++, Python, Tableau],
 }
 ```
 
