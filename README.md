@@ -28,6 +28,6 @@ const Maheshwari = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjalim28&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>hi, I'll be happy to meet you more! </b> :) </em>
 
 ---
