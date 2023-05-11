@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-📫 You can reach me: [anjalimaheshwari211@gmail.com](anjalimaheshwari211@gmail.com)
+📫 You can reach me: [anjalimaheshwari211@gmail.com](mailto:anjalimaheshwari211@gmail.com)
 
 
 
