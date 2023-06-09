@@ -4,7 +4,8 @@
 
 <!-- Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a> -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em>
+</p>
 
 * ✉️ You can reach me at: [anjalimaheshwari211@gmail.com](mailto:anjalimaheshwari211@gmail.com)
 * 🤝 I love to visualize <em><b> data ;) </b></em>
