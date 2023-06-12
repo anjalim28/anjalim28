@@ -18,7 +18,7 @@
 ```javascript
 const Maheshwari = {
   Pronouns: "she" | "her",
-  Skills: [C++, Tableau, Python, SQL]
+  Skills: [C++, Tableau, Python, MySQL]
 }
 ```
 
