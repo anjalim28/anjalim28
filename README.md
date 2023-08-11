@@ -10,7 +10,7 @@
 
 * ✉️ You can reach me at: [anjalimaheshwari211@gmail.com](mailto:anjalimaheshwari211@gmail.com)
 * 🤝 I love to visualize <em><b> data ;)</b></em>
-* ⚡ I am a bookworm !
+* ⚡ I am a bookworm!
 
 
 
